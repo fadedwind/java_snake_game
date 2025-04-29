@@ -1,1 +1,1 @@
-a simple java snake game;
+a simple java snake game for practice
